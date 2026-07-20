@@ -10,7 +10,7 @@ export default function Projects() {
         <ProjectStack />
         <div>
           <h2 className="text-6xl font-bold mb-8 text-white tracking-tighter">
-            Selected Projects
+            Selected Projects.
           </h2>
           <p className="text-gray-400 text-lg ">
             Discover my featured projects, showcasing a blend of 3D technology,
